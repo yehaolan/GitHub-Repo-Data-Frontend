@@ -22,7 +22,7 @@ function drawBasic() {
 	// console.log("in draw basic");
 	var options = {
 		title: 'Repositories Data',
-		height: real_data.length * 20,
+		height: real_data.length * 30,
 		chartArea: {width: '50%'},
 		hAxis: {
 		  title: 'Number of stars',
